@@ -1,2 +1,2 @@
-# Startups_Python_Project
+# Startups_Project
 Data_Science
